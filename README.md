@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, It's Yunus Can</h1>
 <h3 align="center">Front End Developer & Translator & Designer</h3>
 
-- 📝 I regularly write articles on [www.yunuscangungordu.com.tr/blog](www.yunuscangungordu.com.tr/blog)
+- 📝 I regularly write articles on [www.yunuscangungordu.com.tr/blog](https://www.yunuscangungordu.com.tr/blog)
 
 - 📫 How to reach me **info@yunuscangungordu.com.tr**
 
